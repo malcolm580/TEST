@@ -1,0 +1,10 @@
+[{
+  "Name":"Hilton Tokyo",
+  "Address" : "6-6-2, Nishi-Shinjuku, Shinjuku-ku",
+  "RoomType":["Single","Twin","VIP"],
+  "AvailableDay":["2017-10-1","2017-10-2","2017-10-4","2017-10-5","2017-10-6"],
+  "Price":["200","300","400"],
+  "Star":"5",
+  "Image":"img/Hotels/HiltonTokyo.jpg",
+  "Description": "The Hilton Tokyo is located in Tokyo's business, shopping and entertainment center, Shinjuku, making it an ideal choice for modern Japanese. The hotel is connected directly to the subway station, with easy access to Harajuku, Ginza, Akihabara and the world's first tower - Tokyo Sky Tower. A 10-minute walk takes you to a large department store, an electrical store and a boutique house on the bustling commercial street."
+}]
